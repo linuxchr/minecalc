@@ -1,0 +1,26 @@
++------------------------+-------+---------+-----------------------------------+
+| Material List for schematic 'shulker (Converted Structure)' (1 of 1 regions) |
++------------------------+-------+---------+-----------------------------------+
+| Item                   | Total | Missing |                         Available |
++------------------------+-------+---------+-----------------------------------+
+| Glass                  |  7076 |    7076 |                                 0 |
+| Polished Andesite Slab |   926 |     926 |                                 0 |
+| Acacia Button          |   476 |     476 |                                 0 |
+| Polished Diorite Slab  |   458 |     458 |                                 0 |
+| Andesite Wall          |   260 |     260 |                                 0 |
+| Water Bucket           |   119 |     119 |                                 0 |
+| Smooth Stone Slab      |    37 |      37 |                                 0 |
+| Redstone Comparator    |    10 |      10 |                                 6 |
+| Redstone Dust          |     9 |       9 |                                30 |
+| Redstone Repeater      |     6 |       6 |                                52 |
+| Trapped Chest          |     4 |       4 |                                 0 |
+| Hopper                 |     2 |       2 |                                26 |
+| Redstone Torch         |     2 |       2 |                                68 |
+| Soul Sand              |     2 |       2 |                                 0 |
+| Lava Bucket            |     1 |       1 |                                 0 |
+| Lever                  |     1 |       1 |                                 0 |
+| Oak Trapdoor           |     1 |       1 |                                 0 |
+| Snow                   |     1 |       1 |                                 0 |
++------------------------+-------+---------+-----------------------------------+
+| Item                   | Total | Missing |                         Available |
++------------------------+-------+---------+-----------------------------------+
